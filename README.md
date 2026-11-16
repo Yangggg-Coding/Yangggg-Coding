@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**Yangggg-Coding/Yangggg-Coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Hongyang**, a software development student at Norton University in Phnom Penh, Cambodia.
 
-Here are some ideas to get you started:
+I'm in my third year of a CS degree, and I build web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If I get an idea, I design it, build it, and ship it.
+
+My favorite tools are Figma, VS Code, Git, and GitHub.
+
+My latest project is the [Volt Tech Store](https://github.com/Yangggg-Coding/tech-store), an online store with search, filters, and product pages.
+
+I'm looking for an internship in web development. You can reach me here:
+
+- GitHub: [Yangggg-Coding](https://github.com/Yangggg-Coding)
+- LinkedIn: www.linkedin.com/in/heang-hongyang-044808373
+- Email: hhyangg4@gmail.com
+
+**Fun facts:**
+
+- Coffee is my fuel ☕
+- I learn best by building real projects
+- Hobbies: gym, building things
